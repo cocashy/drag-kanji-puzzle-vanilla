@@ -1,0 +1,15 @@
+#game-board {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.row {
+  display: flex;
+}
+
+.box {
+  font-size: 4rem;
+  padding: 0 1rem;
+  background: red;
+}
